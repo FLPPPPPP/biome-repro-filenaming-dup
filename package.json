@@ -1,0 +1,10 @@
+{
+  "name": "biome-repro-filenaming-dup",
+  "private": true,
+  "scripts": {
+    "lint": "biome lint src"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.6.4"
+  }
+}

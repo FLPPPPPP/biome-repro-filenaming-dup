@@ -1,0 +1,12 @@
+{
+  "html": {
+    "experimentalFullSupportEnabled": true,
+    "linter": { "enabled": true }
+  },
+  "linter": {
+    "rules": {
+      "preset": "none",
+      "style": { "useFilenamingConvention": "error" }
+    }
+  }
+}
